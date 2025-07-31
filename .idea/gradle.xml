@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/introduccion-prog-reactiva" />
+            <option value="$PROJECT_DIR$/memoizacion-prog-react" />
             <option value="$PROJECT_DIR$/observables-prog-reactiv" />
+            <option value="$PROJECT_DIR$/operadores-prog-react" />
           </set>
         </option>
       </GradleProjectSettings>
